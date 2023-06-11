@@ -17,6 +17,7 @@ Flutter Animated Reaction is an animated reaction overlay(Example: Facebook, Lin
 
 ## Demo
 
+![animated](https://github.com/Ajoy-1704001/flutter_animated_reaction/assets/57573642/da427168-90be-40b7-a640-c91d2ddad6c8)
 
 ## Features
 
@@ -36,10 +37,10 @@ For better understanding, you can see example application.
 
 ```dart
 AnimatedFlutterReaction().showOverlay(context: context,
-                                        key: key,
-                                        onReaction: (val) {
-                                            print(val);
-                                        });
+                                      key: key,
+                                      onReaction: (val){
+                                         print(val);
+                                      });
 ```
 ### Parameters
 Parameter  | Description
