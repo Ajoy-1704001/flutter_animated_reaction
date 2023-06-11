@@ -16,6 +16,7 @@ and the Flutter guide for
 Flutter Animated Reaction is an animated reaction overlay(Example: Facebook, LinkedIn) which can be customized using your own reaction icons(images/gifs). Wherever your reaction button is on the screen, this package helps you to pop up an animated reaction overlay at the right location on the screen with your preferred reactions icon.
 
 [![](https://visitcount.itsvg.in/api?id=ajoy-1704001&icon=0&color=0)](https://visitcount.itsvg.in)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ajoy-1704001.flutter_animated_reaction&left_color=green&right_color=red)
 
 ## Demo
 
