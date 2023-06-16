@@ -17,7 +17,6 @@ Flutter Animated Reaction is an animated reaction overlay(Example: Facebook, Lin
 
 [![](https://visitcount.itsvg.in/api?id=Ajoy-1704001&label=Views%20Count&color=4&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-
 ## Demo
 
 ![animated](https://github.com/Ajoy-1704001/flutter_animated_reaction/assets/57573642/da427168-90be-40b7-a640-c91d2ddad6c8)
