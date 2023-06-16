@@ -145,9 +145,10 @@ packages:
   flutter_animated_reaction:
     dependency: "direct main"
     description:
-      path: ".."
-      relative: true
-    source: path
+      name: flutter_animated_reaction
+      sha256: "4201d6431851f5ca04c255d0fb19321abec1088579b49480ac17fab2e21e1a65"
+      url: "https://pub.dev"
+    source: hosted
     version: "0.0.1"
   flutter_lints:
     dependency: "direct dev"
